@@ -1,4 +1,4 @@
-# O interpretador do python faz a leitura mas não imprime na tela mas guarda na memória.
+# DocString: O interpretador do python faz a leitura mas não imprime na tela mas guarda na memória.
 
 """
 DocString
